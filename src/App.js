@@ -1,4 +1,4 @@
-import Advice from "./pages/Advices";
+import Advice from "./pages/Advices.jsx";
 
 function App() {
   return (
